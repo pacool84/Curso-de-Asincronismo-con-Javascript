@@ -12,5 +12,8 @@
     "pacool84"
   ],
   "author": "pacool84",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
